@@ -1,0 +1,2 @@
+# matlabにてURDFをインポートしコントロールする
+robotics_system_tool_boxを利用しurdfで作成したロボットモデルの軌道計画を行う
